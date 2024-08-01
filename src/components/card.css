@@ -30,6 +30,7 @@ div {
   color: hsl(150, 100%, 66%);
   font-weight: 600;
 }
+.card_loading,
 .card_h3 {
   color: hsl(193, 38%, 86%);
   text-align: center;
@@ -43,5 +44,5 @@ div {
   cursor: pointer;
   margin-top: auto;
   position: absolute;
-  bottom:  250px;
+  bottom: 250px;
 }
